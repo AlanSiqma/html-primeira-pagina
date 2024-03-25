@@ -1,0 +1,21 @@
+body {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,
+        sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+article img {
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 2px;
+    width: 20%;
+    height: auto;
+
+}
+
+article p {
+    margin-top: 40px;
+}
